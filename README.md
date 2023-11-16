@@ -2,9 +2,11 @@
 ## Screen shots
 ### Initial Screen
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/50ff00a9-e783-45c5-8d5b-ebf9803f5070">
-### Scan Results
+<br>
+Scan Results
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/21106191-6df1-4de0-8675-8da976436a5a">
-### Press the Scan Results Until Connected
+<br>
+Press the Scan Results Until Connected
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/891b6c6d-7dde-443a-bb19-69f25319222f">
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src=https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/34f915cd-05c6-4339-b161-9776442c2d6f">
 <img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/74000cae-61e5-43ad-90db-5bbea599eb4d">
