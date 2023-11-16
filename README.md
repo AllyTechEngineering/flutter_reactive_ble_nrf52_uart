@@ -10,7 +10,7 @@
 ### Equipment and Software needed 
 You will need a nordic Semiconductor nrf52DK dev kit.
 https://www.nordicsemi.com/Products/Development-hardware/nRF52-DK
-## DO NOT Update the Interface MCU Firmware with the downloads on this page. 
+### DO NOT Update the Interface MCU Firmware using the downloads from the previous link. 
 If you allow the system to update the Interface MCU Firmware you may brick the nRF52 DK.
 - If that happens you need to install the nRF Command Line Tools
 - https://www.nordicsemi.com/Products/Development-tools/nrf-command-line-tools/download
