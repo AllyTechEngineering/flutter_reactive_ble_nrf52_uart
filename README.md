@@ -1,12 +1,15 @@
 # flutter_reactive_ble_example_two
 ## Screen shots
 ### Initial Screen
+- Initial Screen
+- Press Scan
+- The nRF52 DK UART shows in first window
+- Press that window link icon
+- Status messages will show connecting and connected
+- From the computer nRFConnect Serial App send a text string and it will show on the Received Data window.
+- From the phone - type a string in the Send Message window and press the send icon and the nRFConnect Serial App will show the string.
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/50ff00a9-e783-45c5-8d5b-ebf9803f5070">
-<br>
-Scan Results
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/21106191-6df1-4de0-8675-8da976436a5a">
-<br>
-Press the Scan Results Until Connected
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/891b6c6d-7dde-443a-bb19-69f25319222f">
 <img height="600" alt="q 2023-11-16 at 10 43 32 AM" src=https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/34f915cd-05c6-4339-b161-9776442c2d6f">
 <img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/74000cae-61e5-43ad-90db-5bbea599eb4d">
