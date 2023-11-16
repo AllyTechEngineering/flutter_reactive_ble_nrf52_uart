@@ -1,4 +1,13 @@
 # flutter_reactive_ble_example_two
+## Screen shots
+![IMG_EA80B35A57A7-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/50ff00a9-e783-45c5-8d5b-ebf9803f5070)
+![IMG_C18F8DD10323-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/21106191-6df1-4de0-8675-8da976436a5a)
+![IMG_A67B3760FC53-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/891b6c6d-7dde-443a-bb19-69f25319222f)
+![IMG_8054DF329A07-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/34f915cd-05c6-4339-b161-9776442c2d6f)
+<img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/74000cae-61e5-43ad-90db-5bbea599eb4d">
+<img width="1051" alt="q 2023-11-16 at 10 44 20 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/b2fefbbf-0d22-415e-b501-cbf09b8facc2">
+<img width="1052" alt="q 2023-11-16 at 10 44 35 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/930ee4e8-1b48-4f38-bab6-dd93cbe1260a">
+
 ## This project connects the nrf52 DK running the sample hex file for the BLE UART Service
 - You will need to be able to setup the nrf52 DK and load the nordic required software.
 - Be familiar with programming the nrf52 DK using the nrfConnect programming software.
@@ -7,6 +16,16 @@
 - 90% of the difficulty in getting this to work is dealing with the Nordic stuff!
 
 ## Getting Started
+- Follow the permissions and setup in the flutter_reactive_ble instructions carefully.
+- Sign your iOS app.
+- This only works on a real device. I have tested on an iPhone 14 Pro.
+- I have not tested this on a real Android device.
+- This app uses a theme.dart file to style.
+- Known issues:
+ - The bottom persistentFooterButtons: layout is giving me fits - it was used in the original app.
+ - I want to change this but ran out of time.
+ - This is not "hardened" and all of the logic and UI are in the HomeScreen.
+ - I want to change this to BLoC and harden but ran out of time.
 ### Equipment and Software needed 
 You will need a nordic Semiconductor nrf52DK dev kit.
 https://www.nordicsemi.com/Products/Development-hardware/nRF52-DK
