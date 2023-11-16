@@ -29,11 +29,14 @@
 - This only works on a real device. I have tested on an iPhone 14 Pro.
 - I have not tested this on a real Android device.
 - This app uses a theme.dart file to style.
+- To use on your iPhone and not be connected via usb use the CLI: flutter run --release with your iPhone connected via usb.
+- After successfully loading you can exit and disconnect and use the app.
 - Known issues:
  - The bottom persistentFooterButtons: layout is giving me fits - it was used in the original app.
  - I want to change this but ran out of time.
  - This is not "hardened" and all of the logic and UI are in the HomeScreen.
  - I want to change this to BLoC and harden but ran out of time.
+
 ### Equipment and Software needed 
 You will need a nordic Semiconductor nrf52DK dev kit.
 https://www.nordicsemi.com/Products/Development-hardware/nRF52-DK
