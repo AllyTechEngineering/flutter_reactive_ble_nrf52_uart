@@ -1,9 +1,9 @@
 # flutter_reactive_ble_example_two
 ## Screen shots
-![IMG_EA80B35A57A7-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/50ff00a9-e783-45c5-8d5b-ebf9803f5070)
-![IMG_C18F8DD10323-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/21106191-6df1-4de0-8675-8da976436a5a)
-![IMG_A67B3760FC53-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/891b6c6d-7dde-443a-bb19-69f25319222f)
-![IMG_8054DF329A07-1](https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/34f915cd-05c6-4339-b161-9776442c2d6f)
+<img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/50ff00a9-e783-45c5-8d5b-ebf9803f5070">
+<img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/21106191-6df1-4de0-8675-8da976436a5a">
+<img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/891b6c6d-7dde-443a-bb19-69f25319222f">
+<img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src=https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/34f915cd-05c6-4339-b161-9776442c2d6f">
 <img width="1045" alt="q 2023-11-16 at 10 43 32 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/74000cae-61e5-43ad-90db-5bbea599eb4d">
 <img width="1051" alt="q 2023-11-16 at 10 44 20 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/b2fefbbf-0d22-415e-b501-cbf09b8facc2">
 <img width="1052" alt="q 2023-11-16 at 10 44 35 AM" src="https://github.com/AllyTechEngineering/flutter_reactive_ble_nrf52_uart/assets/124716050/930ee4e8-1b48-4f38-bab6-dd93cbe1260a">
